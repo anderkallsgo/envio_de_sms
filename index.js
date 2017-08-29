@@ -3,8 +3,8 @@ var async = require('async');
 const snsPublish = require('aws-sns-publish');
 
 AWS.config.update({
-    accessKeyId: 'AKIAIL4PH4IOCVJJU2UQ',
-    secretAccessKey: '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',
+    accessKeyId: 'key',
+    secretAccessKey: 'key',
     region: 'us-east-1'
 });
 
